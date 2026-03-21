@@ -115,11 +115,11 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kennethreitz.com/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false)](https://open.spotify.com/user/your_spotify_id)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/yetemgetaB)
 
 </div>
 
-> 🎵 **Real-time Spotify status** - Updates automatically every hour
+> 🎵 **Real-time Spotify status** - Updates automatically via Novatorem
 
 ---
 
@@ -135,7 +135,7 @@
 
 </div>
 
-> 🐍 **Auto-generated daily** - Shows your coding activity patterns
+> 🐍 **Auto-generated every 6 hours** - Shows your coding activity patterns
 
 ---
 
@@ -170,7 +170,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-3b82f6?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-9pkq1xvka-yetemgetabs-projects.vercel.app)
-[![Admin](https://img.shields.io/badge/🔧%20Admin-6366f1?style=for-the-badge&logo=settings&logoColor=white)](https://my-portfolio-9pkq1xvka-yetemgetabs-projects.vercel.app/admin)
+<!-- [![Admin](https://img.shields.io/badge/🔧%20Admin-6366f1?style=for-the-badge&logo=settings&logoColor=white)](https://my-portfolio-9pkq1xvka-yetemgetabs-projects.vercel.app/admin) -->
 [![GitHub](https://img.shields.io/badge/📦%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yetemgetaB?tab=repositories)
 
 </div>
