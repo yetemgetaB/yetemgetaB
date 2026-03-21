@@ -115,11 +115,11 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=ffffff)](https://open.spotify.com/user/yetemgetaB)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/yetemgetaB)
 
 </div>
 
-> 🎵 **Real-time Spotify status** - Updates automatically via Novatorem
+> 🎵 **Spotify Profile** - Check out my music taste
 
 ---
 
