@@ -111,42 +111,83 @@
 
 ---
 
-### Coding Time
+### 🎵 Now Playing
 
 <div align="center">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yetemgetaB&theme=github_dark&hide_border=true)](https://wakatime.com/@yetemgetaB)
+[![Spotify](https://spotify-github-profile.kennethreitz.com/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false)](https://open.spotify.com/user/your_spotify_id)
 
 </div>
 
-> ⚠️ Requires a public WakaTime profile
+> 🎵 **Real-time Spotify status** - Updates automatically every hour
 
 ---
 
-### Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
-
-> ⚠️ Requires [Novatorem](https://github.com/novatorem/novatorem) setup
-
----
-
-### Contribution Snake
+### 🐍 Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yetemgetaB/yetemgetaB/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/yetemgetaB/yetemgetaB/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yetemgetaB/yetemgetaB/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yetemgetaB/yetemgetaB/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-> ⚠️ Requires GitHub Actions setup
+> 🐍 **Auto-generated daily** - Shows your coding activity patterns
+
+---
+
+### 📊 Live Coding Stats
+
+<div align="center">
+
+[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=yetemgetaB&theme=github_dark&hide_border=true&layout=compact)](https://wakatime.com/@yetemgetaB)
+
+</div>
+
+> ⏱️ **Real-time tracking** - Languages, editors, and coding time
+
+---
+
+### 🏆 Recent Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yetemgetaB&theme=tokyonight&column=6&no-frame=true&margin-w=8&row=2)](https://github.com/yetemgetaB)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yetemgetaB&color=3b82f6&style=flat-square)](https://github.com/yetemgetaB) [![Followers](https://img.shields.io/github/followers/yetemgetaB?color=3b82f6&style=flat-square&logo=github)](https://github.com/yetemgetaB?tab=followers) [![Stars](https://img.shields.io/github/stars/yetemgetaB?color=3b82f6&style=flat-square&logo=github)](https://github.com/yetemgetaB?tab=stars)
+
+</div>
+
+> 🌟 **Social proof** - Community recognition and reach
+
+---
+
+### 🚀 Quick Links
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-3b82f6?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-9pkq1xvka-yetemgetabs-projects.vercel.app)
+[![Admin](https://img.shields.io/badge/🔧%20Admin-6366f1?style=for-the-badge&logo=settings&logoColor=white)](https://my-portfolio-9pkq1xvka-yetemgetabs-projects.vercel.app/admin)
+[![GitHub](https://img.shields.io/badge/📦%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yetemgetaB?tab=repositories)
+
+</div>
+
+---
+
+### 📈 Performance Metrics
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/yetemgetaB?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yetemgetaB?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=yetemgetaB&color=blue)
+
+</div>
+
+> 📊 **Live metrics** - Updated in real-time
 
 ---
 
@@ -169,7 +210,7 @@
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/yetemgetaB">github.com/yetemgetaB</a></sub>
+<a href="https://github.com/yetemgetaB">github.com/yetemgetaB</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer" width="100%"/>
 
