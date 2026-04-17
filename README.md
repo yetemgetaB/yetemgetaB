@@ -82,7 +82,7 @@
 
 <div align="center">
 
-> *"*"The sky is not the limit, it's just the beginning!"* ✈️"*
+> "The sky is not the limit, it's just the beginning!"✈️
 
 </div>
 
