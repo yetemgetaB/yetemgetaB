@@ -11,6 +11,8 @@
 
 ![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-3b82f6?style=flat-square) [![Building · Movie Tracker app](https://img.shields.io/badge/Building%20%E2%86%92%20Movie%20Tracker%20app-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/yetemgetaB/Movie-Tracker-Frontend)
 
+ ![pulse](https://github-pulse-topaz.vercel.app/u/yetemgetaB) 
+
 </div>
 
 ### About
