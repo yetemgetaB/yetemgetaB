@@ -55,16 +55,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yetemgetaB&theme=github_dark&hide_border=true&layout=compact) -->
 
 </div>
-<!--
+
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=yetemgetaB&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-![pulse](https://github-pulse-topaz.vercel.app/u/yetemgetaB) 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=yetemgetaB&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=yetemgetaB&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
--->
+
 
 <div align="center">
   <em><b>"The sky is not the limit, it's just the beginning!"</b> ✈️</em>
